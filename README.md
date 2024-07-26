@@ -56,8 +56,12 @@ path: 0.12.7
 
 ### Gallery
 
+#
+#
 
-#### Desktop View
+
+
+# Desktop View
 
 ![image](./images/screenshot1.png)
 
@@ -98,10 +102,12 @@ path: 0.12.7
 
 #
 #
+#
+#
 
 
 
-#### Mobile View
+# Mobile View
 
 ![image](./images/mobilescreenshot1.png)
 
