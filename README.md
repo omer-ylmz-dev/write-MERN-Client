@@ -60,20 +60,64 @@ path: 0.12.7
 #### Desktop View
 
 ![image](./images/screenshot1.png)
+
+#
+#
+
 ![image](./images/screenshot2.png)
+
+#
+#
+
 ![image](./images/screenshot3.png)
+
+#
+#
+
 ![image](./images/screenshot4.png)
+
+#
+#
+
 ![image](./images/screenshot5.png)
+
+#
+#
+
 ![image](./images/screenshot6.png)
+
+#
+#
+
 ![image](./images/screenshot7.png)
+
+#
+#
+
 ![image](./images/screenshot8.png)
+
+#
+#
+
 
 
 #### Mobile View
 
 ![image](./images/mobilescreenshot1.png)
+
+#
+#
+
 ![image](./images/mobilescreenshot2.png)
+
+#
+#
+
 ![image](./images/mobilescreenshot3.png)
+
+#
+#
+
 
 
 
